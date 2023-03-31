@@ -1,0 +1,39 @@
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\bin\Debug\CarRent.exe.config
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\bin\Debug\CarRent.exe
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\bin\Debug\CarRent.pdb
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.csproj.AssemblyReference.cache
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.csproj.SuggestedBindingRedirects.cache
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.Properties.Resources.resources
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.csproj.GenerateResource.cache
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.csproj.CoreCompileInputs.cache
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.exe
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.pdb
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\bin\Debug\CarRentDB.mdf
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\bin\Debug\CarRentDB_log.ldf
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.Logins.resources
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.MainForm.resources
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.EditClient.resources
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.EditContract.resources
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.EditCar.resources
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.AboutContract.resources
+C:\Users\plato\Desktop\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.Register.resources
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\bin\Debug\CarRentDB.mdf
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\bin\Debug\CarRentDB_log.ldf
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\bin\Debug\CarRent.exe.config
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\bin\Debug\CarRent.exe
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\bin\Debug\CarRent.pdb
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.csproj.AssemblyReference.cache
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.csproj.SuggestedBindingRedirects.cache
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.AboutContract.resources
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.EditClient.resources
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.EditContract.resources
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.EditCar.resources
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.Logins.resources
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.MainForm.resources
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.Properties.Resources.resources
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.Register.resources
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.csproj.GenerateResource.cache
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.csproj.CoreCompileInputs.cache
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.exe
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.pdb
+C:\Users\plato\Desktop\Университет 3 курс\База данных\Курсовая 3 курс Илья Платов\CarRent\obj\Debug\CarRent.Requests.resources
